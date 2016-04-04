@@ -13,3 +13,6 @@ This Project works with cocos2dx v3.10 ,C++11 and my IDE is VisualStudio2015.(Xc
 You can get cocos2dx Game Engine here -> http://www.cocos2d-x.org/
 
 Using cocos, you can release your game in any Platforms(windows,MAC OS X,ios,android.etc)
+
+You should download resource files here-> http://pan.baidu.com/s/1i4OifY1
+Make Gal with engine,resource and cocos2dx engine now!
